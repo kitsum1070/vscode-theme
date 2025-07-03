@@ -1,0 +1,25 @@
+{
+  "name": "koito-night-owl",
+  "displayName": "koito night owl",
+  "description": "Modified based on sdras/night-owl-vscode-theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.101.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/kitsum1070/vscode-theme.git"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Koito night owl",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Koito night owl-color-theme.json"
+      }
+    ]
+  }
+}
